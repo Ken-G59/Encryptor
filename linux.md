@@ -1,5 +1,6 @@
----
+#ENCRYPTION TOOL
 
+---
 # Slide 1: Title Slide
 **Title:** Encryption Tool  
 **Subtitle:** A Python-Based AES Encryption and Decryption Application  
