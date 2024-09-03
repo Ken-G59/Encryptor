@@ -1,5 +1,3 @@
-Here's a structured outline and content for a slide presentation documenting your encryption tool:
-
 ---
 
 # Slide 1: Title Slide
@@ -232,5 +230,3 @@ class EncryptionApp:
 - **Website**: [Your Website]
 
 ---
-
-Feel free to adjust the content and structure according to your audience and specific requirements!
